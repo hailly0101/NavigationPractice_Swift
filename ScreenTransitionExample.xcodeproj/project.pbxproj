@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2E51313E2712886B00A663DA /* SuguePresentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E51313D2712886B00A663DA /* SuguePresentViewController.swift */; };
 		2E8193B027113EB800C70547 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E8193AF27113EB800C70547 /* AppDelegate.swift */; };
 		2E8193B227113EB800C70547 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E8193B127113EB800C70547 /* SceneDelegate.swift */; };
 		2E8193B427113EB800C70547 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E8193B327113EB800C70547 /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2E51313D2712886B00A663DA /* SuguePresentViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SuguePresentViewController.swift; sourceTree = "<group>"; };
 		2E8193AC27113EB800C70547 /* ScreenTransitionExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ScreenTransitionExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2E8193AF27113EB800C70547 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2E8193B127113EB800C70547 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				2E8193BA27113EB900C70547 /* LaunchScreen.storyboard */,
 				2E8193BD27113EB900C70547 /* Info.plist */,
 				2E8193C5271140EC00C70547 /* SeguePushViewController.swift */,
+				2E51313D2712886B00A663DA /* SuguePresentViewController.swift */,
 			);
 			path = ScreenTransitionExample;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2E51313E2712886B00A663DA /* SuguePresentViewController.swift in Sources */,
 				2E8193C6271140EC00C70547 /* SeguePushViewController.swift in Sources */,
 				2E8193B427113EB800C70547 /* ViewController.swift in Sources */,
 				2E8193B027113EB800C70547 /* AppDelegate.swift in Sources */,

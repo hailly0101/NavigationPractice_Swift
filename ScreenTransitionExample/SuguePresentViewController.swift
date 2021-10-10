@@ -17,8 +17,7 @@ class SuguePresentViewController: UIViewController {
     @IBAction func tabBackButton(_ sender: UIButton) {
         self.presentingViewController?
             .dismiss(animated: true, completion: nil)
-            .
-            .
+        
     }
     
 }
